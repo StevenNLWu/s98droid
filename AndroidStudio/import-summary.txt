@@ -1,0 +1,180 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* AndroidStudio\
+* AndroidStudio\.idea\
+* AndroidStudio\.idea\.name
+* AndroidStudio\.idea\workspace.xml
+* AndroidStudio\app\
+* AndroidStudio\app\build.gradle
+* AndroidStudio\app\src\
+* AndroidStudio\app\src\main\
+* AndroidStudio\app\src\main\AndroidManifest.xml
+* AndroidStudio\app\src\main\java\
+* AndroidStudio\app\src\main\java\net\
+* AndroidStudio\app\src\main\java\net\autch\
+* AndroidStudio\app\src\main\java\net\autch\android\
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\DirDiver.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\MS98NativeInterface.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\PMDFileParser.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\PMDWinNativeInterface.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\RemoteControlEventReceiver.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\S98FileParser.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\S98PlayerService.java
+* AndroidStudio\app\src\main\java\net\autch\android\s98droid\SelectSong.java
+* AndroidStudio\app\src\main\jni\
+* AndroidStudio\app\src\main\jni\Android.mk
+* AndroidStudio\app\src\main\jni\Application.mk
+* AndroidStudio\app\src\main\jni\javah.mk
+* AndroidStudio\app\src\main\jni\jni.cpp
+* AndroidStudio\app\src\main\jni\m_s98\
+* AndroidStudio\app\src\main\jni\m_s98\Android.mk
+* AndroidStudio\app\src\main\jni\m_s98\device\
+* AndroidStudio\app\src\main\jni\m_s98\device\divfix.h
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\2413tone.h
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\281btone.h
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\emu2413.c
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\emu2413.h
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\emutypes.h
+* AndroidStudio\app\src\main\jni\m_s98\device\emu2413\vrc7tone.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\diag.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\file.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\file.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\fmgen.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\fmgen.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\fmgeninl.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\fmtimer.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\fmtimer.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\headers.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\misc.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\opm.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\opm.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\opna.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\opna.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\psg.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\psg.h
+* AndroidStudio\app\src\main\jni\m_s98\device\fmgen\types.h
+* AndroidStudio\app\src\main\jni\m_s98\device\kmsnddev.h
+* AndroidStudio\app\src\main\jni\m_s98\device\mame\
+* AndroidStudio\app\src\main\jni\m_s98\device\mame\driver.h
+* AndroidStudio\app\src\main\jni\m_s98\device\mame\fmopl.c
+* AndroidStudio\app\src\main\jni\m_s98\device\mame\fmopl.h
+* AndroidStudio\app\src\main\jni\m_s98\device\mame\ymf262.c
+* AndroidStudio\app\src\main\jni\m_s98\device\mame\ymf262.h
+* AndroidStudio\app\src\main\jni\m_s98\device\s98device.h
+* AndroidStudio\app\src\main\jni\m_s98\device\s98fmgen.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\s98mame.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\s98opll.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\s98sng.cpp
+* AndroidStudio\app\src\main\jni\m_s98\device\s98types.h
+* AndroidStudio\app\src\main\jni\m_s98\device\s_logtbl.c
+* AndroidStudio\app\src\main\jni\m_s98\device\s_logtbl.h
+* AndroidStudio\app\src\main\jni\m_s98\device\s_sng.c
+* AndroidStudio\app\src\main\jni\m_s98\device\s_sng.h
+* AndroidStudio\app\src\main\jni\m_s98\jni.cpp
+* AndroidStudio\app\src\main\jni\m_s98\m_s98.cpp
+* AndroidStudio\app\src\main\jni\m_s98\m_s98.h
+* AndroidStudio\app\src\main\jni\m_s98\mym.h
+* AndroidStudio\app\src\main\jni\m_s98\net_autch_android_s98droid_MS98NativeInterface.h
+* AndroidStudio\app\src\main\jni\m_s98\tar.h
+* AndroidStudio\app\src\main\jni\m_s98\vgm.h
+* AndroidStudio\app\src\main\jni\m_s98\x1f.h
+* AndroidStudio\app\src\main\jni\pmdwin\
+* AndroidStudio\app\src\main\jni\pmdwin\Android.mk
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\diag.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\file.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\file.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\fmgen.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\fmgen.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\fmgeninl.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\fmtimer.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\fmtimer.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\headers.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\misc.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\opm.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\opm.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\opna.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\opna.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\psg.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\psg.h
+* AndroidStudio\app\src\main\jni\pmdwin\fmgen\types.h
+* AndroidStudio\app\src\main\jni\pmdwin\jni.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\net_autch_android_s98droid_PMDWinNativeInterface.h
+* AndroidStudio\app\src\main\jni\pmdwin\opnaw.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\opnaw.h
+* AndroidStudio\app\src\main\jni\pmdwin\p86drv.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\p86drv.h
+* AndroidStudio\app\src\main\jni\pmdwin\p86drv.h.bak
+* AndroidStudio\app\src\main\jni\pmdwin\pcmmusdriver.h
+* AndroidStudio\app\src\main\jni\pmdwin\pmdwin.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\pmdwin.h
+* AndroidStudio\app\src\main\jni\pmdwin\ppsdrv.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\ppsdrv.h
+* AndroidStudio\app\src\main\jni\pmdwin\ppz8l.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\ppz8l.h
+* AndroidStudio\app\src\main\jni\pmdwin\table.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\table.h
+* AndroidStudio\app\src\main\jni\pmdwin\util.cpp
+* AndroidStudio\app\src\main\jni\pmdwin\util.h
+* AndroidStudio\app\src\main\res\
+* AndroidStudio\app\src\main\res\drawable-hdpi\
+* AndroidStudio\app\src\main\res\drawable-hdpi\ic_launcher.png
+* AndroidStudio\app\src\main\res\drawable-ldpi\
+* AndroidStudio\app\src\main\res\drawable-ldpi\ic_launcher.png
+* AndroidStudio\app\src\main\res\drawable-mdpi\
+* AndroidStudio\app\src\main\res\drawable-mdpi\ic_launcher.png
+* AndroidStudio\app\src\main\res\drawable-xhdpi\
+* AndroidStudio\app\src\main\res\drawable-xhdpi\ic_launcher.png
+* AndroidStudio\app\src\main\res\layout\
+* AndroidStudio\app\src\main\res\layout\main.xml
+* AndroidStudio\app\src\main\res\values\
+* AndroidStudio\app\src\main\res\values\strings.xml
+* AndroidStudio\app\src\main\res\values\styles.xml
+* AndroidStudio\build.gradle
+* AndroidStudio\gradle\
+* AndroidStudio\gradle\wrapper\
+* AndroidStudio\gradle\wrapper\gradle-wrapper.jar
+* AndroidStudio\gradle\wrapper\gradle-wrapper.properties
+* AndroidStudio\gradlew
+* AndroidStudio\gradlew.bat
+* AndroidStudio\local.properties
+* AndroidStudio\settings.gradle
+* README.md
+* ic_launcher-web.png
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* jni\ => app\src\main\jni\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
